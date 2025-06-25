@@ -1,3 +1,7 @@
+// Dans cet exemple, nous allons utiliser le hook useRef pour stocker une valeur mutable
+//  qui ne déclenche pas de re-render du composant lorsqu'elle est modifiée.
+// On va également utiliser useState pour avoir une valeur à modifier qui déclenche un re-render.
+
 import {useRef, useState} from 'react';
 
 export default function UseRefExemple () {

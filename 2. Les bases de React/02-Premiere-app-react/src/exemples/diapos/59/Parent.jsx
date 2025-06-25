@@ -1,3 +1,7 @@
+// Dans cet exemple, nous allons créer un composant Parent qui gère un état et passe des 
+// props à un composant enfant.
+// Les props peuvent être des variables ou des fonctions
+
 import { useState } from "react"
 import Children from "./Children"
 

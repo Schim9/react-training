@@ -1,3 +1,6 @@
+// Dans cet exemple, nous allons faire réagir notre composant à un clic sur un bouton.
+// Mais la fonction qui sera appelée lors du clic sur le bouton sera définie en dehors du template.
+
 function ExempleDiapo51() {
 
     function printSomething() {

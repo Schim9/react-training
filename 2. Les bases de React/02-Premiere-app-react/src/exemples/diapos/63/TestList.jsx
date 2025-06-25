@@ -1,3 +1,6 @@
+// Dans cet exemple, nous allons créer un composant qui affiche une liste d'éléments
+// en utilisant un tableau d'objets pour générer dynamiquement les éléments.
+
 import Element from "./Element"
 
 export default function TestList() {

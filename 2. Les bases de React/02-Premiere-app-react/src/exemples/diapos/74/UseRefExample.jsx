@@ -1,3 +1,6 @@
+// Dans cet exemple, nous allons utiliser la fonction useRef de React pour créer une
+// référence vers un élément du DOM.
+
 import { useRef } from "react";
 
 function UseRefExample() {

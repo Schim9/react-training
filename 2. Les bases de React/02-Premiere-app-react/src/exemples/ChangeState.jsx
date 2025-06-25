@@ -1,3 +1,6 @@
+// Dans cet exemple, nous allons utiliser le hook useState pour gérer l'état d'un compteur et d'un objet.
+// Le compteur sera incrémenté à chaque clic sur un bouton
+
 import { useState } from 'react'
 
 export default function ChangeState() {

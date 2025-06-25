@@ -1,3 +1,5 @@
+// Dans cet exemple, nous allons ajouter du JavaScript dans notre composant React.
+
 function ExempleDiapo48() {
   return (
     <div>

@@ -1,3 +1,5 @@
+// Dans cet exemple, nous allons faire réagir notre composant à un clic sur un bouton.
+
 function ExempleDiapo50() {
     return (
         <div>
